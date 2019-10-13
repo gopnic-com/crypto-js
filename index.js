@@ -1,4 +1,6 @@
-import { subtle } from "isomorphic-webcrypto";
+import crypto from "isomorphic-webcrypto";
+
+const {subtle} = crypto;
 
 /**
  * @name generateCryptoKeys
