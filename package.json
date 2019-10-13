@@ -1,0 +1,18 @@
+{
+  "name": "@gopnic/crypto-js",
+  "version": "1.0.0",
+  "description": "app crypto library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Simon Kamenetskii",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.6.0",
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "isomorphic-webcrypto": "^2.3.2"
+  }
+}
