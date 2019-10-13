@@ -1,0 +1,2 @@
+# crypto-js [![Build Status](https://travis-ci.com/gopnic-com/crypto-js.svg?branch=master)](https://travis-ci.com/gopnic-com/crypto-js) [![npm version](https://badge.fury.io/js/%40gopnic%2Fcrypto-js.svg)](https://badge.fury.io/js/%40gopnic%2Fcrypto-js)
+A package for encrypting/decrypting messages with browser javascript.
